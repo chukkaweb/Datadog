@@ -1,8 +1,5 @@
 # Datadog
-Absolutely! Here's your end-to-end guide to learning Datadog in simple points, designed like a study roadmap with important notes + examples.
-
----
-
+Roadmap with important notes + examples.
 # ✅ What is Datadog?
 
 Datadog is a monitoring, logging, and observability platform for cloud-scale applications.
