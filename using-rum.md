@@ -85,3 +85,12 @@ window.DD_RUM.addAction('button_clicked', {
 | 4    | (Optional) Enable session replay    |
 | 5    | (Optional) Add custom user actions  |
 | 6    | Check data in Datadog dashboard     |
+
+
+
+
+
+
+
+
+
